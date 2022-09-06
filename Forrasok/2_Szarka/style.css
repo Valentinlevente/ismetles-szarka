@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+    color: darkblue;
+
+}
+a:any-link{
+    color: crimson;
+}
+#cimkep{
+    display: block;
+    margin: 0 auto;
+}
+h2{
+    color: crimson;
+
+}
+#kep2,#kep1{
+    width: 230px;
+    height: 153px;
+    float: right;
+    border: 1px solid black;
+}
+#besorolas tr td{
+    padding: 6px;
+    margin: 6px;
+}
+.oszlop1{
+    width:240px;
+    text-align: right;
+}
+.tabCimsor{
+    color: aliceblue;
+    background-color: crimson;
+    text-align: center;
+}
